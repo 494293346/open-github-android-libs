@@ -9,7 +9,7 @@
 
 [图片加载框架](#图片加载框架)
 
-[Apk动态加载框架](#Apk动态加载框架)
+[热修复框架](#热修复框架)
 
 ## 相关库
 
@@ -33,7 +33,7 @@ Fresco  [https://github.com/facebook/fresco](https://github.com/facebook/fresco)
 
 Android-Universal-Image-Loader  [https://github.com/nostra13/Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
-### Apk动态加载框架
+### 热修复框架
 
 DynamicLoadApk [https://github.com/singwhatiwanna/dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
 
