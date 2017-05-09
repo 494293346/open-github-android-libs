@@ -1,5 +1,5 @@
 # open-github-android-libs
-安卓 相关开源项目库汇总——工具   
+安卓 相关开源项目库汇总——工具   更新中...
 
 本库是根据多个开源类收藏库和本人自己用过的库写的汇总。
 
@@ -10,6 +10,8 @@
 [图片加载框架](#图片加载框架)
 
 [热修复框架](#热修复框架)
+
+[数据库框架](#数据库框架)
 
 ## 相关库
 
@@ -44,6 +46,18 @@ AndroidDynamicLoader [https://github.com/mmin18/AndroidDynamicLoader](https://gi
 android-pluginmgr [https://github.com/houkx/android-pluginmgr](https://github.com/houkx/android-pluginmgr)
 
 DroidPlugin [https://github.com/Qihoo360/DroidPlugin](https://github.com/Qihoo360/DroidPlugin)
+
+### 数据库框架
+
+greenDAO  [https://github.com/greenrobot/greenDAO](https://github.com/greenrobot/greenDAO)
+
+requery  [https://github.com/requery/requery](https://github.com/requery/requery)
+
+squidb  [https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
+
+LitePal  [https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
+
+Realm  [https://github.com/realm/realm-java](https://github.com/realm/realm-java)
 
 ## 感谢
 
