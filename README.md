@@ -117,6 +117,8 @@ McImage [https://github.com/Mobcase/McImage](https://github.com/Mobcase/McImage)
 
 xLog [https://github.com/elvishew/xLog](https://github.com/elvishew/xLog)
 
+logger [https://github.com/orhanobut/logger](https://github.com/orhanobut/logger)
+
 ### 信用卡ocr库扫描识别数字   
 
 card.io-Android-SDK [https://github.com/card-io/card.io-Android-SDK](https://github.com/card-io/card.io-Android-SDK)
