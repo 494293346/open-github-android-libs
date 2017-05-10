@@ -21,6 +21,10 @@
 
 [谷歌地图扩展](#谷歌地图扩展)  
 
+[io流操作库](#io流操作库)  
+
+[监控当前网络流量并区分网络质量](#监控当前网络流量并区分网络质量)  
+
 ## 相关库
 
 ### 网络请求
@@ -83,7 +87,17 @@ Smack [https://github.com/igniterealtime/Smack](https://github.com/igniterealtim
 
 android-maps-utils [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
 
- ![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/google_utils.gif)
+![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/google_utils.gif)
+
+### io流操作库  
+
+okio [https://github.com/square/okio](https://github.com/square/okio)
+
+### 监控当前网络流量并区分网络质量   
+
+network-connection-class [https://github.com/facebook/network-connection-class](https://github.com/facebook/network-connection-class)
+
+![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/facebook_connetction.png)
 
 ## 感谢
 
