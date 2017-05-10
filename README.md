@@ -35,6 +35,10 @@
 
 [多渠道打包](#多渠道打包)   
 
+[值得收藏的工具类库](#值得收藏的工具类库)   
+
+[json相关](#json相关) 
+
 ## 相关库
 
 ### 网络请求
@@ -132,6 +136,18 @@ card.io-Android-SDK [https://github.com/shekhargulati/strman-java](https://githu
 gradle-packer-plugin [https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
 
 MultiChannelPackageTool [https://github.com/seven456/MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
+
+### 值得收藏的工具类库
+
+android-utils [https://github.com/jingle1267/android-utils](https://github.com/jingle1267/android-utils)
+
+AndroidUtilCode [https://github.com/Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)
+
+### json相关 
+
+fastjson [https://github.com/alibaba/fastjson](https://github.com/alibaba/fastjson)
+
+gson
 
 ## 感谢
 
