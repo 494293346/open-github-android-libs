@@ -25,6 +25,16 @@
 
 [监控当前网络流量并区分网络质量](#监控当前网络流量并区分网络质量)  
 
+[检查和压缩res](#检查和压缩res)  
+
+[日志](#日志)   
+
+[信用卡ocr库扫描识别数字](#信用卡ocr库扫描识别数字) 
+
+[java字符串操作](#java字符串操作)  
+
+[多渠道打包](#多渠道打包)   
+
 ## 相关库
 
 ### 网络请求
@@ -98,6 +108,28 @@ okio [https://github.com/square/okio](https://github.com/square/okio)
 network-connection-class [https://github.com/facebook/network-connection-class](https://github.com/facebook/network-connection-class)
 
 ![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/facebook_connetction.png)
+
+### 检查和压缩res    
+
+McImage [https://github.com/Mobcase/McImage](https://github.com/Mobcase/McImage)
+
+### 日志   
+
+xLog [https://github.com/elvishew/xLog](https://github.com/elvishew/xLog)
+
+### 信用卡ocr库扫描识别数字   
+
+card.io-Android-SDK [https://github.com/card-io/card.io-Android-SDK](https://github.com/card-io/card.io-Android-SDK)
+
+### java字符串操作   
+
+card.io-Android-SDK [https://github.com/shekhargulati/strman-java](https://github.com/shekhargulati/strman-java)
+
+### 多渠道打包   
+
+gradle-packer-plugin [https://github.com/mcxiaoke/gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin)
+
+MultiChannelPackageTool [https://github.com/seven456/MultiChannelPackageTool](https://github.com/seven456/MultiChannelPackageTool)
 
 ## 感谢
 
