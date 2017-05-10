@@ -39,6 +39,12 @@
 
 [json相关](#json相关) 
 
+[注解相关](#注解相关) 
+
+[检测app内存泄露](#检测app内存泄露) 	
+
+[缓存框架](#缓存框架) 	 
+
 ## 相关库
 
 ### 网络请求
@@ -148,6 +154,20 @@ AndroidUtilCode [https://github.com/Blankj/AndroidUtilCode](https://github.com/B
 fastjson [https://github.com/alibaba/fastjson](https://github.com/alibaba/fastjson)
 
 gson
+
+### 注解相关
+
+butterknife [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
+
+### 检测app内存泄露
+
+leakcanary  [https://github.com/square/leakcanary](https://github.com/square/leakcanary)
+
+### 缓存框架 
+
+DiskLruCache  [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
+
+简介 [Android：跟着实战项目学缓存策略之DiskLruCache详谈](http://www.jianshu.com/p/4320597ebd7e)
 
 ## 感谢
 
