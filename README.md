@@ -45,6 +45,14 @@
 
 [缓存框架](#缓存框架) 	 
 
+[应用内截屏](#应用内截屏) 
+
+[加快加载dex文件速度](#加快加载dex文件速度) 
+
+[通过两张静态图片创建为一个有动画效果的svg图](#通过两张静态图片创建为一个有动画效果的svg图)  
+
+[权限管理](#权限管理) 
+
 ## 相关库
 
 ### 网络请求
@@ -168,6 +176,23 @@ leakcanary  [https://github.com/square/leakcanary](https://github.com/square/lea
 DiskLruCache  [https://github.com/JakeWharton/DiskLruCache](https://github.com/JakeWharton/DiskLruCache)
 
 简介 [Android：跟着实战项目学缓存策略之DiskLruCache详谈](http://www.jianshu.com/p/4320597ebd7e)
+
+### 应用内截屏 
+
+InstaCapture [https://github.com/tarek360/InstaCapture](https://github.com/tarek360/InstaCapture)
+
+### 加快加载dex文件速度 
+
+TurboDex [https://github.com/asLody/TurboDex](https://github.com/asLody/TurboDex)
+
+### 通过两张静态图片创建为一个有动画效果的svg图
+
+vectalign [https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/vectalign)
+
+### 权限管理
+
+Dexter [https://github.com/Karumi/Dexter](https://github.com/Karumi/Dexter)
+
 
 ## 感谢
 
