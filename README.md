@@ -13,6 +13,14 @@
 
 [数据库框架](#数据库框架)
 
+[数据库迁移框架](#数据库迁移框架) 
+
+[展示Gif图片库](#展示gif图片库) 
+
+[xmpp协议客户端框架](#xmpp协议客户端框架) 
+
+[谷歌地图扩展](#谷歌地图扩展)  
+
 ## 相关库
 
 ### 网络请求
@@ -58,6 +66,24 @@ squidb  [https://github.com/yahoo/squidb](https://github.com/yahoo/squidb)
 LitePal  [https://github.com/LitePalFramework/LitePal](https://github.com/LitePalFramework/LitePal)
 
 Realm  [https://github.com/realm/realm-java](https://github.com/realm/realm-java)
+
+### 数据库迁移框架
+
+flyway  [https://github.com/flyway/flyway](https://github.com/flyway/flyway)
+
+### 展示gif图片库
+
+android-gif-drawable  [https://github.com/koral--/android-gif-drawable](https://github.com/koral--/android-gif-drawable)
+
+### xmpp协议客户端框架
+
+Smack [https://github.com/igniterealtime/Smack](https://github.com/igniterealtime/Smack)
+
+### 谷歌地图扩展 
+
+android-maps-utils [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
+
+ ![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/google_utils.gif)
 
 ## 感谢
 
