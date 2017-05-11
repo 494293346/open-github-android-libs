@@ -63,6 +63,8 @@
 
 [webview相关](#webview相关)  
 
+[操作蓝牙](#操作蓝牙)  
+
 ## 相关库
 
 ### 网络请求
@@ -246,6 +248,10 @@ pugnotification [https://github.com/halysongoncalves/pugnotification](https://gi
 Webview与JS交互 safe-java-js-webview-bridge [https://github.com/pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
 
 Webview支持html5播放视频 VideoEnabledWebView [https://github.com/cprcrack/VideoEnabledWebView](https://github.com/cprcrack/VideoEnabledWebView)
+
+### 操作蓝牙
+
+Bluetooth-LE-Library---Android [https://github.com/alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android)
 
 ## 感谢
 
