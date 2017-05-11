@@ -53,6 +53,10 @@
 
 [权限管理](#权限管理) 
 
+[apk资源混淆工具](#apk资源混淆工具) 
+
+[视频播放](#视频播放) 
+
 ## 相关库
 
 ### 网络请求
@@ -199,11 +203,27 @@ TedPermission [https://github.com/ParkSangGwon/TedPermission](https://github.com
 
 ![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/ParkSangGwonTedPermission1.png)
 
-![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/ParkSangGwonTedPermission2.png)
-
 AndPermission [https://github.com/yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)
 
 [Android 6.0 运行时权限管理最佳实践](http://blog.csdn.net/yanzhenjie1003/article/details/52503533)
+
+### apk资源混淆工具 
+
+AndResGuard [https://github.com/shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard)
+
+### 视频播放  
+
+JieCaoVideoPlayer [https://github.com/lipangit/JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer)
+
+jjdxm_ijkplayer [https://github.com/jjdxmashl/jjdxm_ijkplayer](https://github.com/jjdxmashl/jjdxm_ijkplayer)
+
+RTSP-Camera-for-Android [https://github.com/spex66/RTSP-Camera-for-Android](https://github.com/spex66/RTSP-Camera-for-Android)
+
+player-sdk-native-android [https://github.com/kaltura/player-sdk-native-android](https://github.com/kaltura/player-sdk-native-android)
+
+ExoMedia [https://github.com/brianwernick/ExoMedia](https://github.com/brianwernick/ExoMedia)
+
+ExoPlayer [https://github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
 
 ## 感谢
 
