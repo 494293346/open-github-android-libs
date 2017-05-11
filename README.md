@@ -57,6 +57,8 @@
 
 [视频播放](#视频播放) 
 
+[测试框架](#测试框架) 
+
 ## 相关库
 
 ### 网络请求
@@ -224,6 +226,10 @@ player-sdk-native-android [https://github.com/kaltura/player-sdk-native-android]
 ExoMedia [https://github.com/brianwernick/ExoMedia](https://github.com/brianwernick/ExoMedia)
 
 ExoPlayer [https://github.com/google/ExoPlayer](https://github.com/google/ExoPlayer)
+
+### 测试框架  
+
+sixpack-java [https://github.com/sixpack/sixpack-java](https://github.com/sixpack/sixpack-java)
 
 ## 感谢
 
