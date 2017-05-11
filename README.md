@@ -193,6 +193,17 @@ vectalign [https://github.com/bonnyfone/vectalign](https://github.com/bonnyfone/
 
 Dexter [https://github.com/Karumi/Dexter](https://github.com/Karumi/Dexter)
 
+![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/Karumi_Dexter.jpg)
+
+TedPermission [https://github.com/ParkSangGwon/TedPermission](https://github.com/ParkSangGwon/TedPermission)
+
+![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/ParkSangGwonTedPermission1.png)
+
+![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/ParkSangGwonTedPermission2.png)
+
+AndPermission [https://github.com/yanzhenjie/AndPermission](https://github.com/yanzhenjie/AndPermission)
+
+[Android 6.0 运行时权限管理最佳实践](http://blog.csdn.net/yanzhenjie1003/article/details/52503533)
 
 ## 感谢
 
