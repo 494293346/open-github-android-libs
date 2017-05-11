@@ -19,7 +19,7 @@
 
 [xmpp协议客户端框架](#xmpp协议客户端框架) 
 
-[谷歌地图扩展](#谷歌地图扩展)  
+[地图相关](#地图相关)  
 
 [io流操作库](#io流操作库)  
 
@@ -58,6 +58,10 @@
 [视频播放](#视频播放) 
 
 [测试框架](#测试框架) 
+
+[创建notification](#创建notification)  
+
+[webview相关](#webview相关)  
 
 ## 相关库
 
@@ -117,11 +121,13 @@ android-gif-drawable  [https://github.com/koral--/android-gif-drawable](https://
 
 Smack [https://github.com/igniterealtime/Smack](https://github.com/igniterealtime/Smack)
 
-### 谷歌地图扩展 
+### 地图相关 
 
-android-maps-utils [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
+谷歌地图扩展 android-maps-utils [https://github.com/googlemaps/android-maps-utils](https://github.com/googlemaps/android-maps-utils)
 
 ![图片描述](https://github.com/494293346/open-github-android-libs/blob/master/images/google_utils.gif)
+
+地图坐标系转换 Bluetooth-LE-Library---Android [https://github.com/alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android)
 
 ### io流操作库  
 
@@ -230,6 +236,16 @@ ExoPlayer [https://github.com/google/ExoPlayer](https://github.com/google/ExoPla
 ### 测试框架  
 
 sixpack-java [https://github.com/sixpack/sixpack-java](https://github.com/sixpack/sixpack-java)
+
+### 创建notification  
+
+pugnotification [https://github.com/halysongoncalves/pugnotification](https://github.com/halysongoncalves/pugnotification)
+
+### webview相关  
+
+Webview与JS交互 safe-java-js-webview-bridge [https://github.com/pedant/safe-java-js-webview-bridge](https://github.com/pedant/safe-java-js-webview-bridge)
+
+Webview支持html5播放视频 VideoEnabledWebView [https://github.com/cprcrack/VideoEnabledWebView](https://github.com/cprcrack/VideoEnabledWebView)
 
 ## 感谢
 
