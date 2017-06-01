@@ -1,5 +1,5 @@
 # open-github-android-libs
-安卓 相关开源项目库汇总——工具   更新中...
+安卓 相关开源项目库汇总——工具   
 
 本库是根据多个开源类收藏库和本人自己用过的库写的汇总。
 
@@ -64,6 +64,8 @@
 [webview相关](#webview相关)  
 
 [操作蓝牙](#操作蓝牙)  
+
+[图片压缩](#图片压缩) 
 
 ## 相关库
 
@@ -252,6 +254,12 @@ Webview支持html5播放视频 VideoEnabledWebView [https://github.com/cprcrack/
 ### 操作蓝牙
 
 Bluetooth-LE-Library---Android [https://github.com/alt236/Bluetooth-LE-Library---Android](https://github.com/alt236/Bluetooth-LE-Library---Android)
+
+### 图片压缩 
+
+Luban [https://github.com/Curzibn/Luban](https://github.com/Curzibn/Luban)
+
+CompressHelper [https://github.com/nanchen2251/CompressHelper](https://github.com/nanchen2251/CompressHelper)
 
 ## 感谢
 
